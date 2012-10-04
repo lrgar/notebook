@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9BD7E6A9-16DE-4FF0-B629-FB310C680C86}"
+	ProjectSection(SolutionItems) = preProject
+		base.ts = base.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "algorithms", "algorithms", "{0614BF0C-EF5A-4A7C-8B9A-00800271D8D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CD38A9A2-CA25-4136-AF79-0DA2960D7A3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "graph", "graph", "{476B2F47-7AF8-44C3-A93E-7EBE0401133C}"
+	ProjectSection(SolutionItems) = preProject
+		disjoint-set.ts = disjoint-set.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{451CB68F-026D-4C89-B570-D6BBEAD35606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "algorithms", "algorithms", "{7E1592DD-CCAC-4DF0-8439-C2F391DAD9D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "graph", "graph", "{D3096F6B-D673-42E7-862F-7A2B956760B2}"
+	ProjectSection(SolutionItems) = preProject
+		disjoint-set-test.ts = disjoint-set-test.ts
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD38A9A2-CA25-4136-AF79-0DA2960D7A3E} = {9BD7E6A9-16DE-4FF0-B629-FB310C680C86}
+		{451CB68F-026D-4C89-B570-D6BBEAD35606} = {9BD7E6A9-16DE-4FF0-B629-FB310C680C86}
+		{0614BF0C-EF5A-4A7C-8B9A-00800271D8D3} = {CD38A9A2-CA25-4136-AF79-0DA2960D7A3E}
+		{476B2F47-7AF8-44C3-A93E-7EBE0401133C} = {0614BF0C-EF5A-4A7C-8B9A-00800271D8D3}
+		{7E1592DD-CCAC-4DF0-8439-C2F391DAD9D9} = {451CB68F-026D-4C89-B570-D6BBEAD35606}
+		{D3096F6B-D673-42E7-862F-7A2B956760B2} = {7E1592DD-CCAC-4DF0-8439-C2F391DAD9D9}
+	EndGlobalSection
+EndGlobal

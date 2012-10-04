@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-cases>
+  <test-case>
+    <input>
+      <!-- Header -->
+      4 3 4
+
+      <!-- Unions -->
+      0 1
+      1 2
+      0 2
+
+      <!-- Queries -->
+      0 1
+      1 2
+      2 3
+      0 2
+    </input>
+  </test-case>
+</test-cases>
