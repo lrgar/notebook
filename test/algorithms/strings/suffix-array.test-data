@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<test-data>
+  <name>Suffix Array test cases</name>
+  <test-case>
+    <input>
+      ababaaacda
+    </input>
+    <answer>
+    </answer>
+  </test-case>
+  <test-case>
+    <input>
+      abcdefg
+    </input>
+    <answer>
+    </answer>
+  </test-case>
+</test-data>
